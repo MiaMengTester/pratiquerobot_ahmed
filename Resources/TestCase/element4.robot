@@ -29,4 +29,7 @@ ${url}=       http://omayo.blogspot.com/
      
 TC_003
     Log To Console    github_pratique
+
+TC_004
+    Log to Console  TEST
          
